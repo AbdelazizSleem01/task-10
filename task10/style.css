@@ -1,0 +1,16 @@
+div{
+    h1{
+        text-align: center;
+        text-decoration: underline;
+        font-weight: 800;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    img{
+        width: 660px;
+        height: 400px;
+        box-shadow: 1px 2px 5px black;
+        border-radius: 12px;
+        margin: 5px 2px;
+    }
+
+}
